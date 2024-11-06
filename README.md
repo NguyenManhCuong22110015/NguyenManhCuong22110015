@@ -25,8 +25,9 @@ Currently, I'm focused on:
 
 Here are some of my repositories that you might find interesting:
 
-- [Hotel Management](https://github.com/NMCuonG08/Hotel-Management-BE): Build a hotel management (backend) by Java Spring 
-
+- [Hotel Management](https://github.com/NMCuonG08/Hotel-Management-BE): Build a hotel management (back-end) by Java Spring 
+- [Hotel Management](https://github.com/NMCuonG08/Hotel-Managent-FE): Build a hotel management (font-end) by React
+-  
 
 ## 👯 Let's Connect!
 
