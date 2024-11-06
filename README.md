@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm Nguyen Manh Cuong, 3rd student at HCMUTE ( HO CHI MINH UNIVERSITY OF TECHNOLOGY AND EDUCATION ), Viet Name.My major are web development, cloud computing, and building efficient systems. I'm excited to share my projects and collaborate with others. Below you'll find a glimpse of my interests and what I work on.
+Hello! I'm Nguyen Manh Cuong, 3rd student at HCMUTE ( HO CHI MINH UNIVERSITY OF TECHNOLOGY AND EDUCATION ), VIET NAM. My majors is web development, cloud computing, and building efficient systems. I'm excited to share my projects and collaborate with others. Below you'll find a glimpse of my interests and what I work on.
 
 ## 🔧 Technologies I Work With
 
