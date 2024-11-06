@@ -34,25 +34,13 @@ Here are some of my repositories that you might find interesting:
 Feel free to reach out to me if you want to collaborate or talk about:
 
 - **Web Security Best Practices**
-- **Cloud Infrastructure & Optimization**
-- **Game Development Techniques**
+- *Full Stack Web Developer**
 - **Tech Stack Recommendations**
 
 You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter/)
-- [Personal Website](https://your-website.com/)
+- [Facebook](https://www.facebook.com/profile.php?id=100048444166642)
+
 
 Thanks for stopping by! 😄
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
